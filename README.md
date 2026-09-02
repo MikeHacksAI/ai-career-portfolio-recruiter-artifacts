@@ -1,11 +1,19 @@
-# ai-career-portfolio-recruiter-artifacts
+# AI Career Portfolio & Recruiter Artifacts
 
-Recruiter-facing portfolio and profile artifacts supporting Michael Roehr's transition into AI Operations, AI Governance, AI Evaluation / Assurance, Responsible AI, Automation, Cloud / Infrastructure Operations, and Technical Operations.
+Recruiter-facing portfolio and professional artifacts supporting Michael Roehr's transition into AI Operations, AI Governance, AI Evaluation / Assurance, Responsible AI, Automation, Cloud / Infrastructure Operations, and Technical Operations.
 
-## Profile artifacts
+## Purpose
 
-- [`linkedin/`](linkedin/) — dated LinkedIn profile baselines, proposed changes, applied-state tracking, and review-first capture helpers.
+This repository is intended to present selected, polished evidence of technical and AI-focused work for recruiters, hiring managers, clients, and technical reviewers.
 
-## LinkedIn baseline
+Recruiter-facing materials should emphasize:
 
-The pre-enhancement LinkedIn baseline was established on **2026-09-02** before any profile edits. See [`linkedin/snapshots/2026-09-02/PROFILE-SNAPSHOT.md`](linkedin/snapshots/2026-09-02/PROFILE-SNAPSHOT.md).
+- What was built or delivered
+- Michael's direct contribution
+- Why the work matters operationally
+- Verifiable evidence, artifacts, documentation, or independent review
+- AI operations, governance, evaluation, assurance, automation, infrastructure, security, and technical operations capabilities
+
+## Portfolio principle
+
+Only polished, relevant artifacts should be prominently surfaced from this README. Working notes, profile-maintenance history, dated snapshots, and change-control records may exist elsewhere in the repository for continuity and provenance, but they are not intended to be highlighted to recruiters.
