@@ -1,0 +1,8 @@
+# Raw authenticated LinkedIn captures are local-only.
+linkedin/.private-captures/
+
+# Playwright persistent browser/session state is local-only.
+linkedin/.playwright-profile/
+
+# Node dependencies if the capture helper is run locally.
+node_modules/
