@@ -20,18 +20,30 @@ This repository is the **career-facing index and packaging layer**. It should no
 
 Canonical career inventory: [`CREDENTIALS-AND-LEARNING.md`](CREDENTIALS-AND-LEARNING.md)
 
-Current captured Microsoft Learn snapshot includes:
+Current captured Microsoft Learn evidence includes:
 
 - 7 Microsoft Learn badges
 - 1 trophy
 - Level 4
+- 11,950 / 13,299 XP
+- 7 completed modules
+- 1 completed learning path
+- 2 historical passed exams
+- 1 historical Microsoft certification
+- 6 hr 25 min of transcripted training
+- **Microsoft Certified Professional** — earned June 4, 2000
+- **Implementing and Supporting NT™ 4.0 Workstation** — Exam 073
+- **Networking Essentials** — Exam 058
+- **SC-200: Mitigate threats using Microsoft 365 Defender** learning path — completed June 19, 2026
 - Defender for Cloud Apps learning
 - Defender for Identity learning
 - Microsoft Entra Identity Protection learning
 - Microsoft Defender / Defender XDR incident mitigation and remediation learning
 - cloud fundamentals learning
 
-Pending: exact Microsoft certification/credential titles and SC-200-related credential evidence from the Credentials/Transcript pages.
+**Claim boundary:** SC-200 is currently supported as a completed **learning path**, not as a passed SC-200 certification exam or Microsoft Security Operations Analyst certification. Upgrade that claim only if the Microsoft Credentials page verifies it.
+
+Pending: exact current Microsoft certification / Applied Skills entries from the **Credentials** page, expiration/renewal details where applicable, and the exact trophy title/date.
 
 ## 2. Recruiter-facing project portfolio
 
@@ -112,8 +124,11 @@ Whenever new career-relevant evidence appears:
 ## Current next captures
 
 - [x] Establish canonical Microsoft Learn achievement inventory.
+- [x] Capture Microsoft Learn Transcript page/PDF.
+- [x] Record historical Microsoft Certified Professional credential and passed exams from transcript.
+- [x] Record SC-200 learning-path completion with the correct non-certification claim boundary.
 - [ ] Capture exact Microsoft Learn Credentials page.
-- [ ] Capture Microsoft Learn Transcript page.
-- [ ] Add exact Microsoft certifications / Applied Skills after issuer verification.
+- [ ] Add exact current Microsoft certifications / Applied Skills after issuer verification.
+- [ ] Capture exact trophy title/date.
 - [ ] Build a consolidated services/capabilities inventory tied to evidence.
 - [ ] Continue packaging Defensive Drift as the first flagship recruiter-facing artifact.
