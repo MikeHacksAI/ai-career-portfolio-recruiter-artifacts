@@ -23,7 +23,7 @@ Canonical career inventory: [`CREDENTIALS-AND-LEARNING.md`](CREDENTIALS-AND-LEAR
 Current captured Microsoft Learn evidence includes:
 
 - 7 Microsoft Learn badges
-- 1 trophy
+- 1 verified trophy: **Mitigate threats using Microsoft Defender XDR**
 - Level 4
 - 11,950 / 13,299 XP
 - 7 completed modules
@@ -31,19 +31,17 @@ Current captured Microsoft Learn evidence includes:
 - 2 historical passed exams
 - 1 historical Microsoft certification
 - 6 hr 25 min of transcripted training
-- **Microsoft Certified Professional** — earned June 4, 2000
-- **Implementing and Supporting NT™ 4.0 Workstation** — Exam 073
-- **Networking Essentials** — Exam 058
+- **Microsoft Certified Professional** — earned June 4, 2000; now retired
+- **Implementing and Supporting NT™ 4.0 Workstation** — Exam 073 — passed
+- **Networking Essentials** — Exam 058 — passed
+- **Implementing and Supporting NT™ Server 4.0** — Exam 067 — historical failed attempt retained only for evidence completeness
 - **SC-200: Mitigate threats using Microsoft 365 Defender** learning path — completed June 19, 2026
-- Defender for Cloud Apps learning
-- Defender for Identity learning
-- Microsoft Entra Identity Protection learning
-- Microsoft Defender / Defender XDR incident mitigation and remediation learning
-- cloud fundamentals learning
+- Microsoft Learn account export captured on 2026-09-03
+- Microsoft Learn credential certificate page captured on 2026-09-03
 
-**Claim boundary:** SC-200 is currently supported as a completed **learning path**, not as a passed SC-200 certification exam or Microsoft Security Operations Analyst certification. Upgrade that claim only if the Microsoft Credentials page verifies it.
+**Current certification snapshot:** the 2026-09-03 Microsoft Learn export lists no active certifications and no verifiable credentials; the historical Microsoft Certified Professional credential is classified as retired.
 
-Pending: exact current Microsoft certification / Applied Skills entries from the **Credentials** page, expiration/renewal details where applicable, and the exact trophy title/date.
+**Claim boundary:** SC-200 is supported as a completed **learning path/trophy**, not as a passed SC-200 certification exam or Microsoft Security Operations Analyst certification.
 
 ## 2. Recruiter-facing project portfolio
 
@@ -125,10 +123,12 @@ Whenever new career-relevant evidence appears:
 
 - [x] Establish canonical Microsoft Learn achievement inventory.
 - [x] Capture Microsoft Learn Transcript page/PDF.
-- [x] Record historical Microsoft Certified Professional credential and passed exams from transcript.
+- [x] Capture Microsoft Learn Credentials certificate page.
+- [x] Capture Microsoft Learn account/export snapshot.
+- [x] Record historical Microsoft Certified Professional credential and exam history.
+- [x] Record exact Microsoft Learn trophy title/date.
 - [x] Record SC-200 learning-path completion with the correct non-certification claim boundary.
-- [ ] Capture exact Microsoft Learn Credentials page.
-- [ ] Add exact current Microsoft certifications / Applied Skills after issuer verification.
-- [ ] Capture exact trophy title/date.
+- [x] Record dated active-certification/verifiable-credential status.
+- [ ] Reconcile Partner Center skilling credit after the linked Learn data finishes processing.
 - [ ] Build a consolidated services/capabilities inventory tied to evidence.
 - [ ] Continue packaging Defensive Drift as the first flagship recruiter-facing artifact.
