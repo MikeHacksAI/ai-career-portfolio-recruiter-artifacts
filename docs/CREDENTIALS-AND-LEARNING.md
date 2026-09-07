@@ -1,7 +1,7 @@
 # Credentials & Learning Inventory
 
 **Status:** Active canonical career record  
-**Last updated:** 2026-09-03  
+**Last updated:** 2026-09-06  
 **Purpose:** Preserve verified professional learning, certifications, credentials, badges, and training evidence for recruiter-facing, LinkedIn, Upwork, services, and portfolio use.
 
 > External issuers remain authoritative for the credentials they issue. This GitHub record is the canonical MikeHacksAI career inventory used to keep public professional materials consistent and current.
@@ -9,6 +9,16 @@
 ## Microsoft Learn
 
 Public profile: https://learn.microsoft.com/en-us/users/mikeroehr/
+
+### Active learning plan — 2026-09-06
+
+- **Plan:** `GitHub Certification Track — GH-900 Foundations`
+- **Current target:** **GH-900 — GitHub Foundations**
+- **Milestone 1:** GitHub Foundations Part 1 — 7-day target
+- **Milestone 2:** GitHub Foundations Part 2 — 7-day target
+- Detailed in-progress roadmap: [`LEARNING-ROADMAP.md`](LEARNING-ROADMAP.md)
+
+> **Claim boundary:** This is an active certification-preparation plan, not an earned certification. Completion and exam results should be added below only after Microsoft/GitHub verifies them.
 
 ### Profile snapshot — 2026-09-03
 
@@ -102,6 +112,7 @@ The captured Microsoft Learn achievements, transcript, credentials page, and acc
 - [x] Capture historical failed exam attempt for completeness.
 - [x] Capture SC-200 learning-path completion distinctly from certification status.
 - [x] Capture dated active-certification/verifiable-credential status from Microsoft Learn export.
+- [x] Capture active GH-900 Microsoft Learn certification-preparation plan.
 - [ ] Reconcile Partner Center skilling credit after linked Learn data finishes processing.
 
 ## Microsoft Partner Center linkage
