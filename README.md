@@ -18,6 +18,7 @@ Recruiter-facing materials should emphasize:
 
 - [`docs/CAREER-EVIDENCE-REGISTRY.md`](docs/CAREER-EVIDENCE-REGISTRY.md) — durable index connecting credentials, professional experience, services/capabilities, projects, experiments, and their canonical evidence sources.
 - [`docs/CREDENTIALS-AND-LEARNING.md`](docs/CREDENTIALS-AND-LEARNING.md) — verified professional learning and credential inventory, including the current Microsoft Learn record.
+- [`docs/LEARNING-ROADMAP.md`](docs/LEARNING-ROADMAP.md) — active personal learning and certification roadmap, including the current GitHub certification sequence and Microsoft Learn plan milestones.
 - [`docs/PORTFOLIO-INVENTORY.md`](docs/PORTFOLIO-INVENTORY.md) — project triage and recruiter-facing portfolio readiness.
 
 ## Portfolio principle
